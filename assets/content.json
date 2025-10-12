@@ -1,0 +1,39 @@
+{
+  "date": "2025-10-12",
+  "news": [
+    {
+      "title": "OpenAI DevDay reveals ChatGPT's 800M weekly users",
+      "body": "During OpenAI's DevDay event, the company shared that ChatGPT now sees around 800 million weekly active users, underscoring the platform's rapid adoption and global reach【488309814389071†L224-L229】."
+    },
+    {
+      "title": "New AI tool launches from Meta, Amazon and Google",
+      "body": "Recent conferences saw the introduction of Meta's DevMate, Amazon's Quick Suite and Google's Gemini Enterprise, signalling intensifying competition across generative AI tools【488309814389071†L230-L240】."
+    },
+    {
+      "title": "Anthropic unveils Claude Sonnet 4.5 and AI co‑creator trend",
+      "body": "Anthropic released Claude Sonnet 4.5 and IBM updated its watsonx platform, while analysts noted a shift toward AI systems acting as creative collaborators rather than just assistants【488309814389071†L241-L246】."
+    }
+  ],
+  "jokes": [
+    "Why did the AI take a break? It needed more 'training' data.",
+    "How does an AI throw a party? It uses a neural network to plan everything.",
+    "What do you call an AI's musical? \"Les Misérables\" because of all the misclassification loss."
+  ],
+  "shorts": [
+    {
+      "title": "AI Tool Highlights",
+      "description": "A 60‑second roundup covering DevMate, Quick Suite, Gemini Enterprise and Claude Sonnet 4.5【488309814389071†L230-L240】【488309814389071†L241-L246】."
+    },
+    {
+      "title": "The Trust Paradox",
+      "description": "Explains the paradox where people rely on AI yet also worry about losing control【488309814389071†L274-L282】."
+    }
+  ],
+  "videos": [
+    {
+      "title": "AI trust paradox explained",
+      "embed": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "An animated explainer on why the 'trust paradox' persists with AI adoption【488309814389071†L274-L282】."
+    }
+  ]
+}
