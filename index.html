@@ -1,47 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-      <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Daily Hub</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/style.css">
-    
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Daily Hub – Home</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
 <body>
-    <header class="hero">
-        <h1>AI Daily Hub</h1>
-        <p id="date">Loading…</p>
-        <p class="tagline">Your automatically updated source for AI news, jokes and shorts.</p>
-    </header>
+  <!-- Navigation -->
+  <nav>
+    <div class="container">
+      <div class="logo">AI Daily Hub</div>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="comedy.html">Comedy</a></li>
+        <li><a href="videos.html">Videos</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </div>
+  </nav>
 
-    <main>
-        <section id="news">
-            <h2>Latest News</h2>
-            <ul id="news-list"></ul>
-        </section>
+  <!-- Hero section -->
+  <header class="hero">
+    <h1>Welcome to AI Daily Hub</h1>
+    <p class="tagline">Your daily dose of imaginary AI news, jokes and videos.</p>
+    <p id="date">Loading…</p>
+  </header>
 
-        <section id="jokes">
-            <h2>Daily Jokes</h2>
-            <ul id="jokes-list"></ul>
-        </section>
+  <main>
+    <section id="news">
+      <h2>Latest News</h2>
+      <ul id="news-list"></ul>
+    </section>
 
-        <section id="shorts">
-            <h2>Short Video Scripts</h2>
-            <ul id="shorts-list"></ul>
-        </section>
+    <section id="jokes">
+      <h2>Jokes</h2>
+      <ul id="jokes-list"></ul>
+    </section>
 
-        <section id="videos">
-            <h2>Video</h2>
-            <div id="videos-list"></div>
-        </section>
+    <section id="shorts">
+      <h2>Shorts</h2>
+      <ul id="shorts-list"></ul>
+    </section>
 
-        <footer>
-            <p>This site is powered by an automated script. Content updates daily. Powered by the OpenAI API and curated research.</p>
-        </footer>
-    </main>
+    <section id="videos">
+      <h2>Featured Video</h2>
+      <div id="videos-list"></div>
+    </section>
+  </main>
 
-    <script src="assets/app.js"></script>
+  <footer>
+    <p>© 2025 AI Daily Hub. This site is for entertainment purposes only.</p>
+  </footer>
+
+  <script src="assets/site.js"></script>
 </body>
 </html>
