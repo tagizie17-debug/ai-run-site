@@ -124,3 +124,22 @@ footer p {
     padding: 1rem;
   }
 }
+
+/* Navigation bar */
+nav {
+  background-color: var(--color-primary);
+  padding: 1rem 0.5rem;
+  text-align: center;
+}
+
+nav a {
+  color: #ffffff;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a:hover {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
