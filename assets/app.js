@@ -45,11 +45,11 @@ async function loadContent() {
                 const li = document.createElement('li');
                 const title = document.createElement('h3');
                 title.textContent = item.title;
-                const script = document.createElement('p');
-                script.textContent = item.script;
-                li.appendChild(title);
-                li.appendChild(script);
-                shortsList.appendChild(li);
+                const description = document.createElement('p');
+        description.textContent = item.description;
+        li.appendChild(title);
+        li.appendChild(description);
+        shortsList.appendChild(li);ild(li);
             });
         }
 
