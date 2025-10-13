@@ -1,43 +1,7 @@
 {
-  "date": "2025-10-12",
-  "news": [
-    {
-      "title": "AI learns to tell jokes to squirrels",
-      "body": "Researchers at the fictional University of Fableland developed an AI that communicates with squirrels and tells them jokes about acorns. It's a groundbreaking step in interspecies comedy."
-    },
-    {
-      "title": "Startup launches AI assistant for dragons",
-      "body": "Imaginary startup DragonAI unveiled a digital assistant for dragons that helps manage hoards, schedule fire-breathing sessions, and plan flights. Investors are excited about the mythical market opportunity."
-    },
-    {
-      "title": "Virtual reality game lets AI run for president",
-      "body": "In the new VR game 'Election Simulator 3000', players control an AI candidate running for president in a fictional election. The AI debates, makes policy decisions and tries to win over human and robot voters."
-    },
-    {
-      "title": "AI painter creates art using cat whiskers",
-      "body": "A creative AI has started painting impressionist landscapes using the tactile feedback of cat whiskers. The resulting works are said to capture the essence of feline curiosity."
-    }
-  ],
-  "jokes": [
-    "Why did the AI take a break? It needed more 'training' data.",
-    "How does an AI throw a party? It uses a neural network to plan everything.",
-    "What do you call an AI's musical? 'Les Misérables' because of all the misclassification loss."
-  ],
-  "shorts": [
-    {
-      "title": "AI Fictional News Roundup",
-      "description": "A humorous recap of AI squirrels telling jokes, dragon assistants, presidential AI candidates and whisker-based art. It's all made up for laughs!"
-    },
-    {
-      "title": "Imaginary Innovations",
-      "description": "Exploring the whimsical side of AI with creative inventions like mythical assistants and paintings inspired by cats."
-    }
-  ],
-  "videos": [
-    {
-      "title": "AI trust paradox explained",
-      "embed": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-      "description": "An animated explainer on why the 'trust paradox' persists with AI adoption."
-    }
-  ]
+  "date": "2025-10-13",
+  "news": [],
+  "jokes": [],
+  "shorts": [],
+  "videos": []
 }
